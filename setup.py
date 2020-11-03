@@ -70,6 +70,7 @@ def read_install_requires():
             'simplejson>=3.16.0',
             'msgpack>=0.5.6',
             'pyzmq>=16.0.0',
+            'bs4',
             'pytdx',
             ]
     return reqs
